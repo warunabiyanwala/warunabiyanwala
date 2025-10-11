@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Waruna Biyanwala  
 
 🚀 **Lead Quality Assurance Engineer | Automation & Performance Testing Specialist**  
-📍 Based in Kandy, Sri Lanka | 🌍 Working with global teams in the UK, Norway & Sweden  
+📍 Based in Kandy, Sri Lanka | 🌍 Working with global teams in the Europe, USA & Australia
 
 ---
 
