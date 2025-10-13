@@ -27,7 +27,7 @@ With hands-on experience in **Cypress, Playwright, Appium, and K6**, I build sca
 
 ### 💼 Experience Snapshot  
 
-#### 🧩 **99x Technologies** | *QA Lead* (Nov 2024 – Present)  
+#### 🧩 **** | *QA Lead* (Nov 2024 – Present)  
 - Leading QA initiatives with Cypress, K6, and GitHub-based CI/CD.  
 - Ensuring product quality through performance testing and real-time Grafana dashboards.  
 
