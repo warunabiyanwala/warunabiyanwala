@@ -64,7 +64,6 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ---
 
 ### 🛠️ Tech Stack  
-## 🛠️ Tools & Technologies  
 
 ### 🚀 Test Automation & QA  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
