@@ -111,10 +111,6 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 
 ---
 
-### 🤖 AI & Emerging Tech  
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?logo=openai&logoColor=white&style=for-the-badge)
-![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-107C10?logo=microsoft-copilot&lo)
-
 
 ### 🌟 Highlights  
 - Architected **multiple automation frameworks** integrated with CI/CD pipelines for UI, API, and mobile apps.  
