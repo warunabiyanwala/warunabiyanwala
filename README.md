@@ -27,7 +27,7 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 
 ### 💼 Experience Snapshot  
 
-#### 🧩 **** | *Associate QA Lead* (Nov 2024 – Present)  
+#### 🧩 **** | *QA Lead* (Nov 2024 – Present)  
 - Leading QA initiatives with Cypress, K6, and GitHub-based CI/CD pipelines.  
 - Conducting performance and API testing with real-time monitoring via Grafana dashboards.  
 - Mentoring QA engineers and ensuring delivery excellence in Agile sprints.  
