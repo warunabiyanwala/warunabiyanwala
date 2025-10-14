@@ -64,8 +64,39 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ---
 
 ### 🛠️ Tech Stack  
-`Cypress` • `Playwright` • `Appium` • `K6` • `JMeter` • `GitHub Actions` • `Bitbucket` • `GitLab CI`  
-`Postman` • `TypeScript` • `JavaScript` • `MongoDB` • `PostgreSQL` • `Swagger` • `Jira` • `TestMo`
+## 🛠️ Tools & Technologies  
+
+### 🚀 Test Automation & QA  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
+![Appium](https://img.shields.io/badge/-Appium-9F5CC0?logo=appium&logoColor=white&style=for-the-badge)
+![K6](https://img.shields.io/badge/-K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![TestMo](https://img.shields.io/badge/-TestMo-0052CC?style=for-the-badge&logoColor=white)
+
+---
+
+### ⚙️ CI/CD & Version Control  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+
+---
+
+### 💻 Programming & Databases  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+---
+
+### 📄 Documentation & API  
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
 
 ---
 
