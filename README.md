@@ -69,6 +69,7 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 ![Appium](https://img.shields.io/badge/-Appium-9F5CC0?logo=appium&logoColor=white&style=for-the-badge)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EA5906?logo=webdriverio&logoColor=white&style=for-the-badge)
 ![K6](https://img.shields.io/badge/-K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
@@ -88,6 +89,8 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -98,6 +101,20 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
 
 ---
+
+### 💬 Collaboration & Productivity  
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)
+![Google Docs](https://img.shields.io/badge/-Google%20Docs-34A853?logo=google-docs&logoColor=white&style=for-the-badge)
+![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?logo=onedrive&logoColor=white&style=for-the-badge)
+
+---
+
+### 🤖 AI & Emerging Tech  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?logo=openai&logoColor=white&style=for-the-badge)
+![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-107C10?logo=microsoft-copilot&lo)
+
 
 ### 🌟 Highlights  
 - Architected **multiple automation frameworks** integrated with CI/CD pipelines for UI, API, and mobile apps.  
