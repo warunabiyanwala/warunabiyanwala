@@ -30,7 +30,8 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 #### 🧩 **** | *QA Lead* (Nov 2024 – Present)  
 - Leading QA initiatives with Cypress, K6, and GitHub-based CI/CD pipelines.  
 - Conducting performance and API testing with real-time monitoring via Grafana dashboards.  
-- Mentoring QA engineers and ensuring delivery excellence in Agile sprints.  
+- Mentoring QA engineers and ensuring delivery excellence in Agile sprints.
+- Working in a microservices-based architecture with deployments orchestrated through Kubernetes.
 
 #### 🤝 **Freelance Test Automation Consultant** | *Remote* (Jan 2025 – Present)  
 - Designing and implementing scalable automation frameworks using **Playwright**, **Cypress**, and **Appium**.  
@@ -81,6 +82,7 @@ I enjoy solving complex testing challenges with tools like **Cypress, Playwright
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+![Microservices & Kubernetes](https://img.shields.io/badge/Microservices%20%26%20Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ---
 
